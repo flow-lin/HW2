@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f5f5f5;
+}
+
+div {
+    width: 500px;
+    height: 200px;
+    border: 0.5em solid #698733;
+    border-radius: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+div img {
+    height: 70%;
+}
